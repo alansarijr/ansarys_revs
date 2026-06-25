@@ -1,4 +1,4 @@
-# Challange Name : Vault 1 
+# Vault 1 
 
-# Challange Description :
+## Description :
 It all starts with an array
